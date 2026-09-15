@@ -1,0 +1,9 @@
+{
+  "name": "湖南省传媒艺考官方数据资料库",
+  "short_name": "传媒艺考资料库",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "lang": "zh-CN"
+}
